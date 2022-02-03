@@ -152,7 +152,7 @@ Follow the following instructions to start contributing.
   **2.** Clone your forked copy of the project.
 
   ```
-  git clone https://github.com/layer5io/layer5.git
+  git clone https://github.com/<your-github-username>/layer5.git
   ```
 
   **3.** Navigate to the project directory.
