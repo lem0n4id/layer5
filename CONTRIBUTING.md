@@ -273,8 +273,7 @@ To ensure all your commits are signed, you may choose to add this alias to your 
   ```
   [alias]
     amend = commit -s --amend
-    cm = commit -s -m
-    commit = commit -s
+    cm = commit -s
   ```
 
 Or you may configure your IDE, for example, Visual Studio Code to automatically sign-off commits for you:
